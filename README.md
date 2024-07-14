@@ -23,7 +23,6 @@ You are required to set up an automated deployment pipeline for a sample web app
 4. **Continuous Deployment:**
 	- Use Ansible to automate the following steps:
 	- Build and push the Docker image to a registry on code push.
-	- Configure the local environment on changes to the Ansible configuration.
 	- Deploy the application on changes to the Kubernetes manifests.
 
 ## Deliverables:
